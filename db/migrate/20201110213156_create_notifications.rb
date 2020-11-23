@@ -3,7 +3,7 @@ class CreateNotifications < ActiveRecord::Migration[5.2]
     create_table :notifications do |t|
       t.string :title
       t.text :content
-      t.integer :group_id
+      t.string :interested_group
     end
   end
 end

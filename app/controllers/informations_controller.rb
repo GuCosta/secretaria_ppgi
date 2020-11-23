@@ -21,7 +21,7 @@ class InformationsController < ApplicationController
     if @information.save
       redirect_to informations_path
     else
-      redirect_to new_information_path,alert:"Ocorreu um erro"
+      redirect_to new_information_path,alert:"Ocorreu um erro. Tente novamente."
     end
     #redirect_to informations_path
   end
@@ -32,6 +32,24 @@ class InformationsController < ApplicationController
     flash[:notice] = "#{@information.title} removido."
     redirect_to informations_path
   end
+
+  def show
+    id = params[:id] # retrieve movie ID from URI route
+    @information = Information.find(id) # look up movie by unique ID
+  end
+
+  def edit
+    @information = Information.find params[:id]
+    @sources=Source.all
+  end
+  
+  def update
+    @information = Information.find params[:id]
+    @information.update_attributes!(information_params)
+    flash[:notice] = "Informação atualizada."
+    redirect_to information_path(@information)
+  end
+    
 
   private
 

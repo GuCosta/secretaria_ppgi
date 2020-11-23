@@ -27,7 +27,7 @@ ActiveRecord::Schema.define(version: 2020_11_12_190856) do
   create_table "notifications", force: :cascade do |t|
     t.string "title"
     t.text "content"
-    t.integer "group_id"
+    t.string "interested_group"
   end
 
   create_table "sources", force: :cascade do |t|
