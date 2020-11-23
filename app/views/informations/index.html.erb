@@ -30,6 +30,7 @@
 
 
 <%= form_tag(informations_path, :method => :get) do %>
+  <th> Filtrar por fonte </th>
   <%= collection_select :information, :source_id, Source.all, :id, :name, {:include_blank => 'Selecione uma fonte'} %>
   <%=submit_tag "Filtrar"%>
 <%end%>
