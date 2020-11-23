@@ -22,4 +22,4 @@ Scenario: Filter information by source that has not yet published any informatio
     When I select the information source from the list of registered sources
     And I press "Filtrar"
     Then I should be on the SecretairiaPpgi informations page
-    And I should see an warning message: "Nenhuma Informação publicada pela fonte selecionada!"
+    And I should see message "Nenhuma informação publicada"
