@@ -1,7 +1,7 @@
 {
   "RSpec": {
     "coverage": {
-      "/mnt/c/EngSw/secretaria_ppgi/spec/controllers/InfoSourceFilter_spec.rb": {
+      "/home/guga/projeto_es/secretaria_ppgi/spec/controllers/InfoSourceFilter_spec.rb": {
         "lines": [
           1,
           null,
@@ -31,7 +31,7 @@
           null
         ]
       },
-      "/mnt/c/EngSw/secretaria_ppgi/spec/rails_helper.rb": {
+      "/home/guga/projeto_es/secretaria_ppgi/spec/rails_helper.rb": {
         "lines": [
           null,
           1,
@@ -112,7 +112,7 @@
           null
         ]
       },
-      "/mnt/c/EngSw/secretaria_ppgi/config/environment.rb": {
+      "/home/guga/projeto_es/secretaria_ppgi/config/environment.rb": {
         "lines": [
           null,
           1,
@@ -121,7 +121,7 @@
           1
         ]
       },
-      "/mnt/c/EngSw/secretaria_ppgi/config/application.rb": {
+      "/home/guga/projeto_es/secretaria_ppgi/config/application.rb": {
         "lines": [
           1,
           null,
@@ -144,7 +144,7 @@
           null
         ]
       },
-      "/mnt/c/EngSw/secretaria_ppgi/config/boot.rb": {
+      "/home/guga/projeto_es/secretaria_ppgi/config/boot.rb": {
         "lines": [
           1,
           null,
@@ -152,7 +152,7 @@
           1
         ]
       },
-      "/mnt/c/EngSw/secretaria_ppgi/config/environments/test.rb": {
+      "/home/guga/projeto_es/secretaria_ppgi/config/environments/test.rb": {
         "lines": [
           1,
           null,
@@ -202,7 +202,7 @@
           null
         ]
       },
-      "/mnt/c/EngSw/secretaria_ppgi/config/initializers/application_controller_renderer.rb": {
+      "/home/guga/projeto_es/secretaria_ppgi/config/initializers/application_controller_renderer.rb": {
         "lines": [
           null,
           null,
@@ -214,7 +214,7 @@
           null
         ]
       },
-      "/mnt/c/EngSw/secretaria_ppgi/config/initializers/assets.rb": {
+      "/home/guga/projeto_es/secretaria_ppgi/config/initializers/assets.rb": {
         "lines": [
           null,
           null,
@@ -232,7 +232,7 @@
           null
         ]
       },
-      "/mnt/c/EngSw/secretaria_ppgi/config/initializers/backtrace_silencers.rb": {
+      "/home/guga/projeto_es/secretaria_ppgi/config/initializers/backtrace_silencers.rb": {
         "lines": [
           null,
           null,
@@ -243,7 +243,7 @@
           null
         ]
       },
-      "/mnt/c/EngSw/secretaria_ppgi/config/initializers/content_security_policy.rb": {
+      "/home/guga/projeto_es/secretaria_ppgi/config/initializers/content_security_policy.rb": {
         "lines": [
           null,
           null,
@@ -272,7 +272,7 @@
           null
         ]
       },
-      "/mnt/c/EngSw/secretaria_ppgi/config/initializers/cookies_serializer.rb": {
+      "/home/guga/projeto_es/secretaria_ppgi/config/initializers/cookies_serializer.rb": {
         "lines": [
           null,
           null,
@@ -281,7 +281,7 @@
           1
         ]
       },
-      "/mnt/c/EngSw/secretaria_ppgi/config/initializers/devise.rb": {
+      "/home/guga/projeto_es/secretaria_ppgi/config/initializers/devise.rb": {
         "lines": [
           null,
           null,
@@ -584,7 +584,7 @@
           null
         ]
       },
-      "/mnt/c/EngSw/secretaria_ppgi/config/initializers/filter_parameter_logging.rb": {
+      "/home/guga/projeto_es/secretaria_ppgi/config/initializers/filter_parameter_logging.rb": {
         "lines": [
           null,
           null,
@@ -592,7 +592,7 @@
           1
         ]
       },
-      "/mnt/c/EngSw/secretaria_ppgi/config/initializers/inflections.rb": {
+      "/home/guga/projeto_es/secretaria_ppgi/config/initializers/inflections.rb": {
         "lines": [
           null,
           null,
@@ -612,7 +612,7 @@
           null
         ]
       },
-      "/mnt/c/EngSw/secretaria_ppgi/config/initializers/mime_types.rb": {
+      "/home/guga/projeto_es/secretaria_ppgi/config/initializers/mime_types.rb": {
         "lines": [
           null,
           null,
@@ -620,7 +620,7 @@
           null
         ]
       },
-      "/mnt/c/EngSw/secretaria_ppgi/config/initializers/wrap_parameters.rb": {
+      "/home/guga/projeto_es/secretaria_ppgi/config/initializers/wrap_parameters.rb": {
         "lines": [
           null,
           null,
@@ -638,7 +638,7 @@
           null
         ]
       },
-      "/mnt/c/EngSw/secretaria_ppgi/spec/factories.rb": {
+      "/home/guga/projeto_es/secretaria_ppgi/spec/factories.rb": {
         "lines": [
           1,
           1,
@@ -660,7 +660,7 @@
           null
         ]
       },
-      "/mnt/c/EngSw/secretaria_ppgi/config/routes.rb": {
+      "/home/guga/projeto_es/secretaria_ppgi/config/routes.rb": {
         "lines": [
           null,
           null,
@@ -677,7 +677,7 @@
           null
         ]
       },
-      "/mnt/c/EngSw/secretaria_ppgi/app/models/user.rb": {
+      "/home/guga/projeto_es/secretaria_ppgi/app/models/user.rb": {
         "lines": [
           null,
           null,
@@ -694,32 +694,32 @@
           null
         ]
       },
-      "/mnt/c/EngSw/secretaria_ppgi/app/models/application_record.rb": {
+      "/home/guga/projeto_es/secretaria_ppgi/app/models/application_record.rb": {
         "lines": [
           1,
           1,
           null
         ]
       },
-      "/mnt/c/EngSw/secretaria_ppgi/app/helpers/application_helper.rb": {
+      "/home/guga/projeto_es/secretaria_ppgi/app/helpers/application_helper.rb": {
         "lines": [
           1,
           null
         ]
       },
-      "/mnt/c/EngSw/secretaria_ppgi/app/helpers/home_helper.rb": {
+      "/home/guga/projeto_es/secretaria_ppgi/app/helpers/home_helper.rb": {
         "lines": [
           1,
           null
         ]
       },
-      "/mnt/c/EngSw/secretaria_ppgi/app/helpers/source_helper.rb": {
+      "/home/guga/projeto_es/secretaria_ppgi/app/helpers/source_helper.rb": {
         "lines": [
           1,
           null
         ]
       },
-      "/mnt/c/EngSw/secretaria_ppgi/spec/controllers/admincontrol_controller_spec.rb": {
+      "/home/guga/projeto_es/secretaria_ppgi/spec/controllers/admincontrol_controller_spec.rb": {
         "lines": [
           1,
           null,
@@ -755,7 +755,7 @@
           null
         ]
       },
-      "/mnt/c/EngSw/secretaria_ppgi/app/controllers/sources_controller.rb": {
+      "/home/guga/projeto_es/secretaria_ppgi/app/controllers/sources_controller.rb": {
         "lines": [
           1,
           null,
@@ -810,7 +810,7 @@
           null
         ]
       },
-      "/mnt/c/EngSw/secretaria_ppgi/app/controllers/application_controller.rb": {
+      "/home/guga/projeto_es/secretaria_ppgi/app/controllers/application_controller.rb": {
         "lines": [
           null,
           null,
@@ -825,7 +825,7 @@
           null
         ]
       },
-      "/mnt/c/EngSw/secretaria_ppgi/spec/controllers/home_controller_spec.rb": {
+      "/home/guga/projeto_es/secretaria_ppgi/spec/controllers/home_controller_spec.rb": {
         "lines": [
           1,
           null,
@@ -841,7 +841,7 @@
           null
         ]
       },
-      "/mnt/c/EngSw/secretaria_ppgi/app/controllers/home_controller.rb": {
+      "/home/guga/projeto_es/secretaria_ppgi/app/controllers/home_controller.rb": {
         "lines": [
           1,
           1,
@@ -849,7 +849,7 @@
           null
         ]
       },
-      "/mnt/c/EngSw/secretaria_ppgi/spec/controllers/informations_controller_spec.rb": {
+      "/home/guga/projeto_es/secretaria_ppgi/spec/controllers/informations_controller_spec.rb": {
         "lines": [
           1,
           null,
@@ -939,7 +939,7 @@
           null
         ]
       },
-      "/mnt/c/EngSw/secretaria_ppgi/app/controllers/informations_controller.rb": {
+      "/home/guga/projeto_es/secretaria_ppgi/app/controllers/informations_controller.rb": {
         "lines": [
           1,
           1,
@@ -1004,7 +1004,7 @@
           null
         ]
       },
-      "/mnt/c/EngSw/secretaria_ppgi/spec/controllers/new_info_controller_spec.rb": {
+      "/home/guga/projeto_es/secretaria_ppgi/spec/controllers/new_info_controller_spec.rb": {
         "lines": [
           1,
           null,
@@ -1057,7 +1057,7 @@
           null
         ]
       },
-      "/mnt/c/EngSw/secretaria_ppgi/spec/controllers/notification_controller_spec.rb": {
+      "/home/guga/projeto_es/secretaria_ppgi/spec/controllers/notification_controller_spec.rb": {
         "lines": [
           1,
           null,
@@ -1085,7 +1085,7 @@
           null
         ]
       },
-      "/mnt/c/EngSw/secretaria_ppgi/app/controllers/notifications_controller.rb": {
+      "/home/guga/projeto_es/secretaria_ppgi/app/controllers/notifications_controller.rb": {
         "lines": [
           1,
           null,
@@ -1152,7 +1152,7 @@
           null
         ]
       },
-      "/mnt/c/EngSw/secretaria_ppgi/spec/controllers/source_controller_spec.rb": {
+      "/home/guga/projeto_es/secretaria_ppgi/spec/controllers/source_controller_spec.rb": {
         "lines": [
           1,
           null,
@@ -1230,7 +1230,7 @@
           null
         ]
       },
-      "/mnt/c/EngSw/secretaria_ppgi/spec/helpers/home_helper_spec.rb": {
+      "/home/guga/projeto_es/secretaria_ppgi/spec/helpers/home_helper_spec.rb": {
         "lines": [
           1,
           null,
@@ -1249,7 +1249,7 @@
           null
         ]
       },
-      "/mnt/c/EngSw/secretaria_ppgi/spec/helpers/source_helper_spec.rb": {
+      "/home/guga/projeto_es/secretaria_ppgi/spec/helpers/source_helper_spec.rb": {
         "lines": [
           1,
           null,
@@ -1268,7 +1268,7 @@
           null
         ]
       },
-      "/mnt/c/EngSw/secretaria_ppgi/spec/models/information_spec.rb": {
+      "/home/guga/projeto_es/secretaria_ppgi/spec/models/information_spec.rb": {
         "lines": [
           1,
           null,
@@ -1290,7 +1290,7 @@
           null
         ]
       },
-      "/mnt/c/EngSw/secretaria_ppgi/app/models/information.rb": {
+      "/home/guga/projeto_es/secretaria_ppgi/app/models/information.rb": {
         "lines": [
           1,
           1,
@@ -1302,7 +1302,7 @@
           null
         ]
       },
-      "/mnt/c/EngSw/secretaria_ppgi/spec/models/source_spec.rb": {
+      "/home/guga/projeto_es/secretaria_ppgi/spec/models/source_spec.rb": {
         "lines": [
           1,
           null,
@@ -1311,7 +1311,7 @@
           null
         ]
       },
-      "/mnt/c/EngSw/secretaria_ppgi/app/models/source.rb": {
+      "/home/guga/projeto_es/secretaria_ppgi/app/models/source.rb": {
         "lines": [
           1,
           1,
@@ -1320,16 +1320,7 @@
           null
         ]
       },
-      "/mnt/c/EngSw/secretaria_ppgi/spec/models/user_spec.rb": {
-        "lines": [
-          1,
-          null,
-          1,
-          1,
-          null
-        ]
-      },
-      "/mnt/c/EngSw/secretaria_ppgi/spec/views/home/index.html.erb_spec.rb": {
+      "/home/guga/projeto_es/secretaria_ppgi/spec/models/user_spec.rb": {
         "lines": [
           1,
           null,
@@ -1338,7 +1329,7 @@
           null
         ]
       },
-      "/mnt/c/EngSw/secretaria_ppgi/spec/views/source/create.html.erb_spec.rb": {
+      "/home/guga/projeto_es/secretaria_ppgi/spec/views/home/index.html.erb_spec.rb": {
         "lines": [
           1,
           null,
@@ -1347,7 +1338,7 @@
           null
         ]
       },
-      "/mnt/c/EngSw/secretaria_ppgi/spec/views/source/index.html.erb_spec.rb": {
+      "/home/guga/projeto_es/secretaria_ppgi/spec/views/source/create.html.erb_spec.rb": {
         "lines": [
           1,
           null,
@@ -1356,7 +1347,7 @@
           null
         ]
       },
-      "/mnt/c/EngSw/secretaria_ppgi/spec/views/source/new.html.erb_spec.rb": {
+      "/home/guga/projeto_es/secretaria_ppgi/spec/views/source/index.html.erb_spec.rb": {
         "lines": [
           1,
           null,
@@ -1365,7 +1356,16 @@
           null
         ]
       },
-      "/mnt/c/EngSw/secretaria_ppgi/spec/views/source/show.html.erb_spec.rb": {
+      "/home/guga/projeto_es/secretaria_ppgi/spec/views/source/new.html.erb_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          null
+        ]
+      },
+      "/home/guga/projeto_es/secretaria_ppgi/spec/views/source/show.html.erb_spec.rb": {
         "lines": [
           1,
           null,
@@ -1375,6 +1375,6 @@
         ]
       }
     },
-    "timestamp": 1606686005
+    "timestamp": 1606686960
   }
 }

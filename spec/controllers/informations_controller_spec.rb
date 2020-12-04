@@ -21,7 +21,7 @@ RSpec.describe InformationsController, :type => :controller do
         get :index
         #expect(responde).to render_template('index')
         expect(response).to have_http_status(:ok)
-        expect(response.body).to match /<h1>.*Lista de Informações/im
+        expect(response.body).not_to match /<h2>.*Nenhuma informação publicada/im
       end
     end
 
